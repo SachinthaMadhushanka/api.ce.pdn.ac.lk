@@ -2937,7 +2937,7 @@
         "batches": {
             "E17": {
                 "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/",
-                "project_count": 18,
+                "project_count": 19,
                 "projects": {
                     "Analysis-Tool-for-Industrial-Images": {
                         "title": "Analysis Tool for Industrial Images",
@@ -2973,19 +2973,19 @@
                         "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
                         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
                         "repo_url": "https://github.com/cepdnaclk/e17-co328-Automated_Computerised_System",
-                        "page_url": "#",
-                        "data_url": "#",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-Automated_Computerised_System",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-Automated_Computerised_System/data/index.json",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
-                            "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
+                            "created_at": "2022-03-08",
+                            "updated_at": "2022-03-08",
+                            "language": "JavaScript",
+                            "forks_count": "0",
+                            "stars_count": "1",
+                            "watchers_count": "1",
                             "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Automated_Computerised_System/"
                     },
@@ -3002,11 +3002,11 @@
                         "data_url": "https://cepdnaclk.github.io/e17-co328-ContactTracingApp/data/index.json",
                         "github": {
                             "created_at": "2022-03-03",
-                            "updated_at": "2022-03-03",
+                            "updated_at": "2022-03-08",
                             "language": "JavaScript",
-                            "forks_count": "2",
-                            "stars_count": "1",
-                            "watchers_count": "1",
+                            "forks_count": "3",
+                            "stars_count": "2",
+                            "watchers_count": "2",
                             "topics": [],
                             "has_projects": "true",
                             "has_wiki": "true",
@@ -3016,20 +3016,20 @@
                     },
                     "Document-Tag-Generator": {
                         "title": "Document Tag Generator",
-                        "description": "Our project is to generate tags for the projects on the department website.",
+                        "description": "The project website of the Department of Computer Engineering currently has nearly 150 projects. These projects are categorized by only batches and subjectwise. Also, some of the projects have some tags but some of them are not relevant to those projects. Also, some projects do not have any tags. Currently, users can search projects by keywords, but those keywords are derived only from project descriptions.Our goal is to generate relevant tags for each project according to the description of the projects and other valid data available on the project pages. ",
                         "batch": "E17",
                         "category": "Software Engineering Projects (CO328)",
                         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Document-Tag-Generator/",
                         "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
                         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
                         "repo_url": "https://github.com/cepdnaclk/e17-co328-Document-Tag-Generator",
-                        "page_url": "#",
-                        "data_url": "#",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator/data/index.json",
                         "github": {
                             "created_at": "2022-02-26",
-                            "updated_at": "2022-02-26",
-                            "language": "",
-                            "forks_count": "3",
+                            "updated_at": "2022-03-08",
+                            "language": "Jupyter Notebook",
+                            "forks_count": "4",
                             "stars_count": "0",
                             "watchers_count": "0",
                             "topics": [],
@@ -3052,9 +3052,9 @@
                         "data_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System/data/index.json",
                         "github": {
                             "created_at": "2022-02-27",
-                            "updated_at": "2022-03-05",
+                            "updated_at": "2022-03-09",
                             "language": "JavaScript",
-                            "forks_count": "2",
+                            "forks_count": "3",
                             "stars_count": "0",
                             "watchers_count": "0",
                             "topics": [],
@@ -3104,7 +3104,7 @@
                             "created_at": "2022-03-02",
                             "updated_at": "2022-03-02",
                             "language": "",
-                            "forks_count": "2",
+                            "forks_count": "3",
                             "stars_count": "0",
                             "watchers_count": "0",
                             "topics": [],
@@ -3127,8 +3127,8 @@
                         "data_url": "https://cepdnaclk.github.io/e17-co328-History-of-Music/data/index.json",
                         "github": {
                             "created_at": "2022-03-03",
-                            "updated_at": "2022-03-04",
-                            "language": "",
+                            "updated_at": "2022-03-13",
+                            "language": "CSS",
                             "forks_count": "3",
                             "stars_count": "0",
                             "watchers_count": "0",
@@ -3154,7 +3154,7 @@
                             "created_at": "2022-02-23",
                             "updated_at": "2022-02-28",
                             "language": "CSS",
-                            "forks_count": "3",
+                            "forks_count": "4",
                             "stars_count": "0",
                             "watchers_count": "0",
                             "topics": [
@@ -3172,7 +3172,7 @@
                     },
                     "NGS-Data-AnalysingToolkit": {
                         "title": "NGS Data AnalysingToolkit",
-                        "description": "Detecting Biomarker for deaseases using the Next Generation Sequencing Data Set",
+                        "description": "The development of next-generation sequencing (NGS) technology has resulted in a rapid growth in the synthesis of large genomic datasets, but user-friendly tools for finding biomarkers of genes and visualizing this data have not kept pace.  Our project is to develop a web application which can provide a user-friendly interface for Alzheimer disease prediction and finding biomarker genes for particular disease using differential expression analysis of human mRNA sequence data. We improve on available tools by offering a range of normalization, feature selection and classification methods and a simple to use interface.",
                         "batch": "E17",
                         "category": "Software Engineering Projects (CO328)",
                         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
@@ -3183,9 +3183,9 @@
                         "data_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit/data/index.json",
                         "github": {
                             "created_at": "2022-03-02",
-                            "updated_at": "2022-03-02",
-                            "language": "Python",
-                            "forks_count": "2",
+                            "updated_at": "2022-03-07",
+                            "language": "SCSS",
+                            "forks_count": "3",
                             "stars_count": "0",
                             "watchers_count": "0",
                             "topics": [],
@@ -3229,19 +3229,19 @@
                         "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
                         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
                         "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-heart-disease-using-ECG",
-                        "page_url": "#",
-                        "data_url": "#",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-heart-disease-using-ECG",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-heart-disease-using-ECG/data/index.json",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
-                            "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
+                            "created_at": "2022-03-04",
+                            "updated_at": "2022-03-10",
+                            "language": "JavaScript",
+                            "forks_count": "3",
+                            "stars_count": "0",
+                            "watchers_count": "0",
                             "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "false"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
                     },
@@ -3258,8 +3258,8 @@
                         "data_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination/data/index.json",
                         "github": {
                             "created_at": "2022-02-26",
-                            "updated_at": "2022-03-02",
-                            "language": "HTML",
+                            "updated_at": "2022-03-09",
+                            "language": "JavaScript",
                             "forks_count": "1",
                             "stars_count": "0",
                             "watchers_count": "0",
@@ -3269,6 +3269,31 @@
                             "has_pages": "true"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
+                    },
+                    "Research-profiles-of-academic-staff": {
+                        "title": "Research profiles of academic staff",
+                        "description": "A web portal to collect all publications on all areas under Computer Engineering department to a single information repository.\u200b",
+                        "batch": "E17",
+                        "category": "Software Engineering Projects (CO328)",
+                        "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Research-profiles-of-academic-staff/",
+                        "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
+                        "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+                        "repo_url": "https://github.com/cepdnaclk/e17-co328-Research-profiles-of-academic-staff",
+                        "page_url": "#",
+                        "data_url": "#",
+                        "github": {
+                            "created_at": "",
+                            "updated_at": "",
+                            "language": "",
+                            "forks_count": "",
+                            "stars_count": "",
+                            "watchers_count": "",
+                            "topics": [],
+                            "has_projects": "",
+                            "has_wiki": "",
+                            "has_pages": ""
+                        },
+                        "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Research-profiles-of-academic-staff/"
                     },
                     "Skim-Sequencing-Analysis": {
                         "title": "Skim Sequencing Analysis",
@@ -3283,7 +3308,7 @@
                         "data_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis/data/index.json",
                         "github": {
                             "created_at": "2022-02-23",
-                            "updated_at": "2022-02-27",
+                            "updated_at": "2022-03-12",
                             "language": "Java",
                             "forks_count": "3",
                             "stars_count": "3",
@@ -3291,7 +3316,7 @@
                             "topics": [],
                             "has_projects": "true",
                             "has_wiki": "true",
-                            "has_pages": "false"
+                            "has_pages": "true"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
                     },
@@ -3304,8 +3329,8 @@
                         "cover_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/cover_page.jpg",
                         "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
                         "repo_url": "https://github.com/cepdnaclk/e17-co328-Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data",
-                        "page_url": "#",
-                        "data_url": "#",
+                        "page_url": "https://cepdnaclk.github.io/e17-co328-Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data",
+                        "data_url": "https://cepdnaclk.github.io/e17-co328-Sobriety-Detection-Using-Mobile-Phone-Gyroscope-Data/data/index.json",
                         "github": {
                             "created_at": "2022-02-24",
                             "updated_at": "2022-03-05",
@@ -3340,8 +3365,8 @@
                         "data_url": "#",
                         "github": {
                             "created_at": "2022-02-28",
-                            "updated_at": "2022-02-28",
-                            "language": "JavaScript",
+                            "updated_at": "2022-03-09",
+                            "language": "Jupyter Notebook",
                             "forks_count": "3",
                             "stars_count": "0",
                             "watchers_count": "0",
@@ -3365,21 +3390,21 @@
                         "data_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser/data/index.json",
                         "github": {
                             "created_at": "2022-03-01",
-                            "updated_at": "2022-03-04",
+                            "updated_at": "2022-03-09",
                             "language": "TypeScript",
                             "forks_count": "3",
-                            "stars_count": "0",
-                            "watchers_count": "0",
+                            "stars_count": "1",
+                            "watchers_count": "1",
                             "topics": [],
                             "has_projects": "true",
                             "has_wiki": "true",
-                            "has_pages": "false"
+                            "has_pages": "true"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
                     },
                     "road-accident-analyzer": {
                         "title": "road accident analyzer",
-                        "description": "Road Accident Analysis for Community Awareness",
+                        "description": "Road traffic injuries are a leading cause of death and disability. In low and middle income countries, vulnerable road users are commonly involved in crashes with severe injuries. Road traffic injuries are a major public health problem globally. About 1.2 million people are killed and more than 50 million are injured due to road traffic crashes annually.More than 90% of these deaths and injuries occur in low and middle income countries (LMIC) due to rapid motorization, lack of road safety culture, poor road conditions, and lack of education on road safety. Our aim is to reduce road accidents using machine learning techniques.",
                         "batch": "E17",
                         "category": "Software Engineering Projects (CO328)",
                         "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
@@ -3389,16 +3414,16 @@
                         "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
                         "data_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer/data/index.json",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
-                            "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
+                            "created_at": "2022-02-26",
+                            "updated_at": "2022-03-12",
+                            "language": "Jupyter Notebook",
+                            "forks_count": "3",
+                            "stars_count": "1",
+                            "watchers_count": "1",
                             "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "true"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
                     }
@@ -3808,16 +3833,16 @@
                         "page_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system",
                         "data_url": "https://cepdnaclk.github.io/e17-co543-Number-Plate-Recognition-system/data/index.json",
                         "github": {
-                            "created_at": "",
-                            "updated_at": "",
+                            "created_at": "2022-03-10",
+                            "updated_at": "2022-03-10",
                             "language": "",
-                            "forks_count": "",
-                            "stars_count": "",
-                            "watchers_count": "",
+                            "forks_count": "3",
+                            "stars_count": "0",
+                            "watchers_count": "0",
                             "topics": [],
-                            "has_projects": "",
-                            "has_wiki": "",
-                            "has_pages": ""
+                            "has_projects": "true",
+                            "has_wiki": "true",
+                            "has_pages": "true"
                         },
                         "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co543/E17/Number-Plate-Recognition-system/"
                     },
@@ -3836,7 +3861,7 @@
                             "created_at": "2022-03-05",
                             "updated_at": "2022-03-05",
                             "language": "",
-                            "forks_count": "0",
+                            "forks_count": "1",
                             "stars_count": "0",
                             "watchers_count": "0",
                             "topics": [],
